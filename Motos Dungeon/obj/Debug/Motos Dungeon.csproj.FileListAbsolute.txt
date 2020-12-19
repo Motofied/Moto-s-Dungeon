@@ -1,0 +1,7 @@
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\bin\Debug\Motos Dungeon.exe.config
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\bin\Debug\Motos Dungeon.exe
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\bin\Debug\Motos Dungeon.pdb
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\obj\Debug\Motos Dungeon.csprojAssemblyReference.cache
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\obj\Debug\Motos Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\obj\Debug\Motos Dungeon.exe
+C:\Users\motog\Desktop\Motos Dungeon\Motos Dungeon\Motos Dungeon\obj\Debug\Motos Dungeon.pdb
